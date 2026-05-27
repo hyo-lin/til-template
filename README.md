@@ -21,3 +21,9 @@ yy.mm.dd 세부 주제 3 작성 (상세 내역 링크)
 yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
 
 yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+
+### [5월 다섯째주, 2주차] : DB, HTTP 인증과 레이어드
+
+[26.05.26 작성](./May/2026-05-26.md)
+
+[26.05.27 작성](./May/2026-05-27.md)
